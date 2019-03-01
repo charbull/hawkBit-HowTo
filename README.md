@@ -25,7 +25,9 @@ When your device appears you can start tagging it by two means:
 - Create a list of tags on the left of the **Deployment** tab of the UI.
 - Selecting a device and then looking for the tags widget as shown in the image below 
 
-![](./images/TagDevice.png=250x150)
+
+<img src="./images/TagDevice.png" width="750">
+
 
 > TODO:
 ```
@@ -97,7 +99,7 @@ For now select the following configuration as shown in the image below where:
 
 To know more about these configuration visit the HawkBit [documentation](https://www.eclipse.org/hawkbit/concepts/rollout-management/) and the[ManagementUI](https://www.eclipse.org/hawkbit/ui/)
 
-![](./images/Rollout.png)
+<img src="./images/Rollout.png" width="600">
 
 > TODO:
 ```
