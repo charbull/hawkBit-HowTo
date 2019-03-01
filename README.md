@@ -123,7 +123,11 @@ Follow these steps:
 - Other lifecycle management such as revert & cancel download
 
 # To reRun the GCP Module
+
 To restart the GCP module:
+
+- SSH to your VM Instance
+
 - Kill the java process
 ```sh
 ps -e | grep java
