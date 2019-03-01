@@ -25,7 +25,7 @@ When your device appears you can start tagging it by two means:
 - Create a list of tags on the left of the **Deployment** tab of the UI.
 - Selecting a device and then looking for the tags widget as shown in the image below 
 
-![](./images/TagDevice.png=24x48)
+![](./images/TagDevice.png=250x150)
 
 > TODO:
 ```
