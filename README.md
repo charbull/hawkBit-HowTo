@@ -107,6 +107,10 @@ The device simulator will allow to accept the download and install the file and 
 During each of these steps, the device is expected to communicate its status with the HawkBit GCP Module.
 To use the device simulator, please download it from [here](https://github.com/ionia-corporation/gcp-iot-simulator)
 
+When you completed the download and install of the rollout, the succesful devices will have a green check mark as shown below:
+
+![](./images/Downloaded.png)
+
 
 # In case of errors
 
