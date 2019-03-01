@@ -23,7 +23,9 @@ Your will get a notification on the deployment widget when they appear, as shown
 # Tagging your devices
 When your device appears you can start tagging it by two means:
 - Create a list of tags on the left of the **Deployment** tab of the UI.
-- Selecting a device and then looking for the tags widget as shown in the image below ![](./images/TagDevice.png)
+- Selecting a device and then looking for the tags widget as shown in the image below 
+
+![](./images/TagDevice.png=24x48)
 
 > TODO:
 ```
