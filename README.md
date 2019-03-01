@@ -2,7 +2,8 @@
 
 # Connect to HawkBit Server
 
-First login to your VM instance: **YOURHOST:8080/UI**
+First login to your VM instance: **http://YOURHOST:8080/UI**
+HTTPS is not yet supported
 
 ## Device population from GCP 
 
